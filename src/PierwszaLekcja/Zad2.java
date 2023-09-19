@@ -1,4 +1,4 @@
-//08.09.2023 rok
+package PierwszaLekcja;//08.09.2023 rok
 import java.util.Scanner;
 
 public class Zad2 {

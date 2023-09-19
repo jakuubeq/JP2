@@ -1,3 +1,5 @@
+package PierwszaLekcja;
+
 import java.util.Scanner;
 public class Zad23 {
 

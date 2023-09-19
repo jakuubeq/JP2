@@ -1,3 +1,5 @@
+package PierwszaLekcja;
+
 public class NajlepszeGryZad1 {
 
     public static void main(String[] args) {
